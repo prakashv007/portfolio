@@ -4,7 +4,7 @@ const internships = [
         company: 'Adroit Technologies (IBM Naan Mudhalvan)',
         role: 'Data Analytics Intern',
         duration: 'March 2026 – April 2026',
-        image: '/src/assets/adroit -internship.png',
+        image: '/assets/adroit -internship.png',
         responsibilities: [
             'Developed 3+ interactive dashboards in IBM Cognos Analytics for business intelligence reporting',
             'Automated reporting frameworks, reducing manual effort by approximately 30%',
@@ -18,7 +18,7 @@ const internships = [
         company: '8Queens Software Technologies Private Limited',
         role: 'Software Intern',
         duration: 'July 4, 2025 – July 18, 2025',
-        image: '/src/assets/8queens-internship.jpg',
+        image: '/assets/8queens-internship.jpg',
         responsibilities: [
             'Participated in a 15-day agile sprint, gaining exposure to software development lifecycle',
             'Collaborated with the development team on real-world projects and team workflows',

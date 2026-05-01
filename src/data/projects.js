@@ -3,7 +3,7 @@ const projects = [
         id: 1,
         title: 'DigiDrive – Digital Asset Management System',
         badge: 'Hackathon Project | MERN Stack',
-        image: '/src/assets/digidrive.png',
+        image: '/assets/digidrive.png',
         thumbBg: 'linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%)',
         placeholderLabel: '⭐ DigiDrive',
         description:
@@ -18,7 +18,7 @@ const projects = [
         id: 2,
         title: 'Zomato Data Analytics Dashboard',
         badge: 'Power BI Project',
-        image: '/src/assets/zomato.png',
+        image: '/assets/zomato.png',
         thumbBg: 'linear-gradient(135deg, #e23744 0%, #b71c1c 60%, #880e4f 100%)',
         placeholderLabel: '📊 Zomato Analytics',
         description:
@@ -33,7 +33,7 @@ const projects = [
         id: 3,
         title: 'Sales Data Insights Dashboard',
         badge: 'Excel-Based Data Analysis Project',
-        image: '/src/assets/sales.png',
+        image: '/assets/sales.png',
         thumbBg: 'linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%)',
         placeholderLabel: '📈 Sales Analytics',
         description:
@@ -48,7 +48,7 @@ const projects = [
         id: 4,
         title: 'SpicePot Restaurant Chain Analytics',
         badge: 'Operational Optimization Project',
-        image: '/src/assets/spicepot.png',
+        image: '/assets/spicepot.png',
         thumbBg: 'linear-gradient(135deg, #f97316 0%, #ea580c 100%)',
         placeholderLabel: '🥘 SpicePot Analytics',
         description:
