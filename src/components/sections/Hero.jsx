@@ -14,9 +14,9 @@ const Hero = () => {
                     <h1 className="hero__name">
                         Prakash V<span>.</span>
                     </h1>
-                    <p className="hero__role">Aspiring Data Analyst</p>
+                    <h2 className="hero__role">Data Analyst & IT Student</h2>
                     <p className="hero__tagline">
-                        Data analysis enthusiast with knowledge of Excel, SQL, Python, and Power BI. Comfortable working with datasets to identify trends and present insights clearly.
+                        Transforming complex datasets into actionable business insights. Proficient in Python, SQL, and BI tools, with a focus on data storytelling and impactful visualizations.
                     </p>
                     <div className="hero__actions">
                         <Button variant="outline" href="#projects">

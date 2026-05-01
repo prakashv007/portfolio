@@ -14,9 +14,14 @@ const Achievements = () => {
                     {achievements.map((item) => (
                         <div className="achievement-card" key={item.id}>
                             <div className="achievement-card__icon">{item.icon}</div>
-                            <div>
+                            <div className="achievement-card__content">
                                 <h3 className="achievement-card__title">{item.title}</h3>
                                 <p className="achievement-card__description">{item.description}</p>
+                                {item.image && (
+                                    <div className="achievement-card__image">
+                                        <img src={item.image} alt={item.title} />
+                                    </div>
+                                )}
                             </div>
                         </div>
                     ))}

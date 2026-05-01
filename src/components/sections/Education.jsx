@@ -4,7 +4,7 @@ import education from '../../data/education';
 
 const Education = () => {
     return (
-        <section id="education" className="section">
+        <section id="education" className="section section--alt">
             <Container>
                 <SectionTitle
                     title="Education"

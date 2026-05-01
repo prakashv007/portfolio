@@ -2,10 +2,10 @@ import Container from '../layout/Container';
 import SectionTitle from '../ui/SectionTitle';
 
 const highlights = [
-    { icon: '📊', label: 'Data Analytics\nProjects' },
-    { icon: '📈', label: 'Dashboards\nBuilt' },
-    { icon: '🎓', value: '2027', label: 'Graduation\nYear' },
-    { icon: '🚀', label: 'Continuous\nLearning' },
+    { icon: '📊', value: '5+', label: 'Analytics\nProjects' },
+    { icon: '📈', value: '3+', label: 'BI Dashboards\nBuilt' },
+    { icon: '🎓', value: '8.25', label: 'Current\nCGPA' },
+    { icon: '🚀', value: '2+', label: 'Professional\nInternships' },
 ];
 
 const About = () => {

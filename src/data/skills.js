@@ -2,23 +2,24 @@ const skills = [
     {
         category: 'Data Analytics',
         items: [
-            'Microsoft Excel',
-            'SQL (Fundamentals, Queries)',
-            'Python',
+            'SQL (Queries, Optimization)',
+            'Python (Pandas, Numpy, Matplotlib, Seaborn)',
+            'Microsoft Excel (Pivot Tables, Dashboards)',
             'Power BI',
-            'Data Cleaning',
+            'IBM Cognos Analytics',
+            'Data Cleaning & ETL',
             'Exploratory Data Analysis (EDA)',
-            'Data Visualization',
+            'Data Storytelling',
         ],
     },
     {
         category: 'Web & Tools',
         items: [
-            'HTML',
-            'CSS',
-            'JavaScript',
-            'Node.js',
+            'HTML, CSS, JavaScript',
+            'React.js',
+            'Node.js & MongoDB',
             'Git & GitHub',
+            'Agile Methodology',
         ],
     },
 ];

@@ -1,28 +1,31 @@
 const internships = [
     {
         id: 1,
-        company: 'IBM',
-        role: 'Data Analytics Intern (Online)',
-        duration: 'March 2026 – Present',
+        company: 'Adroit Technologies (IBM Naan Mudhalvan)',
+        role: 'Data Analytics Intern',
+        duration: 'March 2026 – April 2026',
+        image: '/src/assets/adroit -internship.png',
         responsibilities: [
-            'Gaining hands-on expertise in IBM Cognos Analytics to build business intelligence solutions and visualize complex datasets',
-            'Developing reporting frameworks to streamline data interpretation and support data-driven decision-making',
+            'Developed 3+ interactive dashboards in IBM Cognos Analytics for business intelligence reporting',
+            'Automated reporting frameworks, reducing manual effort by approximately 30%',
+            'Collaborated on KPI tracking and data storytelling to support leadership decisions',
         ],
         learnings:
-            'Currently working on building BI solutions using IBM Cognos Analytics, creating reporting frameworks for data-driven decision-making.',
+            'Gained hands-on expertise in IBM Cognos Analytics and BI reporting frameworks, focusing on actionable metrics and impact.',
     },
     {
         id: 2,
         company: '8Queens Software Technologies Private Limited',
-        role: 'Full Stack Intern',
+        role: 'Software Intern',
         duration: 'July 4, 2025 – July 18, 2025',
+        image: '/src/assets/8queens-internship.jpg',
         responsibilities: [
-            'Learned about real-world project workflow and development processes',
-            'Got exposure to software development lifecycle and team collaboration',
-            'Understood basic development and project management practices',
+            'Participated in a 15-day agile sprint, gaining exposure to software development lifecycle',
+            'Collaborated with the development team on real-world projects and team workflows',
+            'Learned project management practices and team collaboration tools',
         ],
         learnings:
-            'Completed a 15-day internship, gaining knowledge in project workflow and basic development processes.',
+            'Gained knowledge in agile sprints, project workflows, and the importance of teamwork in development.',
     },
 ];
 

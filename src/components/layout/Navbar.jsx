@@ -6,12 +6,13 @@ const NAV_LINKS = [
     { id: 'projects', label: 'Projects' },
     { id: 'skills', label: 'Skills' },
     { id: 'achievements', label: 'Achievements' },
+    { id: 'certificates', label: 'Certificates' },
     { id: 'internships', label: 'Experience' },
     { id: 'education', label: 'Education' },
     { id: 'contact', label: 'Contact' },
 ];
 
-const SECTION_IDS = ['hero', 'about', 'projects', 'skills', 'achievements', 'internships', 'education', 'contact'];
+const SECTION_IDS = ['hero', 'about', 'projects', 'skills', 'achievements', 'certificates', 'internships', 'education', 'contact'];
 
 const Navbar = () => {
     const { activeSection, isScrolled } = useScroll(SECTION_IDS);
